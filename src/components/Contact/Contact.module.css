@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  align-items: center;
+}
+.icon {
+  margin-right: 5px;
+}
+.text {
+  margin: 0;
+}
+.text:first-child {
+  margin-bottom: 10px;
+}
+.button {
+  cursor: pointer;
+  height: 100%;
+  width: 60px;
+  margin-left: auto;
+}
